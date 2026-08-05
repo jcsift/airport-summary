@@ -124,22 +124,22 @@
 
 | 名称 | 官网地址 | 最便宜订阅(年付) | 不限时套餐 | 详情信息 |
 | --- | --- | --- | --- | --- |
-| [星岛梦(StarDream)](#星岛梦-stardream-机场服务评测) | [星岛梦官网](https://ilil.uk/xdm) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/xdm) |
-| [Sogo云](#sogo云机场服务评测) | [Sogo云官网](https://ilil.uk/sogo) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/sogo) |
-| [宇宙云(YuZhou)](#宇宙云-yuzhou-机场服务评测) | [宇宙云官网](https://ilil.uk/yuzhou) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/yuzhou) |
-| [一翻云(1fly)](#一翻云-1fly-机场服务评测) | [一翻云官网](https://ilil.uk/1fly) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/1fly) |
-| [隐云(YinYun)](#隐云-yinyun-机场服务评测) | [隐云官网](https://ilil.uk/yinyun) | 22元 无限流量/月 | ❌ | [查看](https://eoht.net/serve/airport/yinyun) |
-| [二猫云(2mao)](#二猫云-2mao-机场服务评测) | [二猫云官网](https://ilil.uk/2mao) | 7元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/2mao) |
-| [边缘节点(EdgeNova)](#边缘节点-edgenova-机场服务评测) | [边缘节点官网](https://ilil.uk/edgenova) | 9元 45g/月 | ❌ | [查看](https://eoht.net/serve/airport/edgenova) |
-| [无忧(WuYou)](#无忧-wuyou-机场服务评测) | [无忧官网](https://ilil.uk/wuyou) | 约6.6元 40g/月 | ✅ | [查看](https://eoht.net/serve/airport/wuyou) |
-| [Echo](#echo机场服务评测) | [Echo官网](https://ilil.uk/echo) | 8元 80g/月 | ❌ | [查看](https://eoht.net/serve/airport/echo) |
-| [SSLAR](#sslar机场服务评测) | [SSLAR官网](https://ilil.uk/sslar) | 13元 100g/月 | ❌ | [查看](https://eoht.net/serve/airport/sslar) |
-| [快狸(KuaiLi)](#快狸-kuaili-机场服务评测) | [快狸官网](https://ilil.uk/kuaili) | 10元 30g/月 | ❌ | [查看](https://eoht.net/serve/airport/kuaili) |
-| [速界(SuJie)](#速界-sujie-机场服务评测) | [速界官网](https://ilil.uk/sujie) | 7元 50g/月 | ❌ | [查看](https://eoht.net/serve/airport/sujie) |
-| [可达(KeDa)](#可达-keda-机场服务评测) | [可达官网](https://ilil.uk/keda) | 12元 100g/月 | ❌ | [查看](https://eoht.net/serve/airport/keda) |
-| [光速云(LightSpeed)](#光速云-lightspeed-机场服务评测) | [光速云官网](https://ilil.uk/lightspeed) | 8元 59g/月 | ✅ | [查看](https://eoht.net/serve/airport/lightspeed) |
-| [Firefly](#firefly机场服务评测) | [Firefly官网](https://ilil.uk/firefly) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/firefly) |
-| [闪跃(FlashLeap)](#闪跃-flashleap-机场服务评测) | [闪跃官网](https://ilil.uk/flashleap) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/flashleap) |
+| [星岛梦(StarDream)](#星岛梦-stardream-机场服务评测) | [星岛梦官网](https://eoht.net/serve/airport/xdm) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/xdm) |
+| [Sogo云](#sogo云机场服务评测) | [Sogo云官网](https://eoht.net/serve/airport/sogo) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/sogo) |
+| [宇宙云(YuZhou)](#宇宙云-yuzhou-机场服务评测) | [宇宙云官网](https://eoht.net/serve/airport/yuzhou) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/yuzhou) |
+| [一翻云(1fly)](#一翻云-1fly-机场服务评测) | [一翻云官网](https://eoht.net/serve/airport/1fly) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/1fly) |
+| [隐云(YinYun)](#隐云-yinyun-机场服务评测) | [隐云官网](https://eoht.net/serve/airport/yinyun) | 22元 无限流量/月 | ❌ | [查看](https://eoht.net/serve/airport/yinyun) |
+| [二猫云(2mao)](#二猫云-2mao-机场服务评测) | [二猫云官网](https://eoht.net/serve/airport/2mao) | 7元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/2mao) |
+| [边缘节点(EdgeNova)](#边缘节点-edgenova-机场服务评测) | [边缘节点官网](https://eoht.net/serve/airport/edgenova) | 9元 45g/月 | ❌ | [查看](https://eoht.net/serve/airport/edgenova) |
+| [无忧(WuYou)](#无忧-wuyou-机场服务评测) | [无忧官网](https://eoht.net/serve/airport/wuyou) | 约6.6元 40g/月 | ✅ | [查看](https://eoht.net/serve/airport/wuyou) |
+| [Echo](#echo机场服务评测) | [Echo官网](https://eoht.net/serve/airport/echo) | 8元 80g/月 | ❌ | [查看](https://eoht.net/serve/airport/echo) |
+| [SSLAR](#sslar机场服务评测) | [SSLAR官网](https://eoht.net/serve/airport/sslar) | 13元 100g/月 | ❌ | [查看](https://eoht.net/serve/airport/sslar) |
+| [快狸(KuaiLi)](#快狸-kuaili-机场服务评测) | [快狸官网](https://eoht.net/serve/airport/kuaili) | 10元 30g/月 | ❌ | [查看](https://eoht.net/serve/airport/kuaili) |
+| [速界(SuJie)](#速界-sujie-机场服务评测) | [速界官网](https://eoht.net/serve/airport/sujie) | 7元 50g/月 | ❌ | [查看](https://eoht.net/serve/airport/sujie) |
+| [可达(KeDa)](#可达-keda-机场服务评测) | [可达官网](https://eoht.net/serve/airport/keda) | 12元 100g/月 | ❌ | [查看](https://eoht.net/serve/airport/keda) |
+| [光速云(LightSpeed)](#光速云-lightspeed-机场服务评测) | [光速云官网](https://eoht.net/serve/airport/lightspeed) | 8元 59g/月 | ✅ | [查看](https://eoht.net/serve/airport/lightspeed) |
+| [Firefly](#firefly机场服务评测) | [Firefly官网](https://eoht.net/serve/airport/firefly) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/firefly) |
+| [闪跃(FlashLeap)](#闪跃-flashleap-机场服务评测) | [闪跃官网](https://eoht.net/serve/airport/flashleap) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/flashleap) |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -151,7 +151,7 @@
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** [星岛梦(StarDream)VPN官网](https://ilil.uk/xdm)
+**点击购买👉👉** [星岛梦(StarDream)VPN官网](https://eoht.net/serve/airport/xdm)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -193,7 +193,7 @@
 
 **最便宜的订阅有8元 60G/月（年付）。**
 
-**点击购买👉👉👉** [Sogo云VPN官网](https://ilil.uk/sogo)
+**点击购买👉👉👉** [Sogo云VPN官网](https://eoht.net/serve/airport/sogo)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -241,7 +241,7 @@
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** [宇宙云(YuZhou)VPN官网](https://ilil.uk/yuzhou)
+**点击购买👉👉** [宇宙云(YuZhou)VPN官网](https://eoht.net/serve/airport/yuzhou)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -277,7 +277,7 @@
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** [一翻云(1fly)VPN官网](https://ilil.uk/1fly)
+**点击购买👉👉** [一翻云(1fly)VPN官网](https://eoht.net/serve/airport/1fly)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -313,7 +313,7 @@
 
 **最便宜的订阅有22元 无限流量/月(年付)。**
 
-**点击购买👉👉** [隐云(YinYun)VPN官网](https://ilil.uk/yinyun)
+**点击购买👉👉** [隐云(YinYun)VPN官网](https://eoht.net/serve/airport/yinyun)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -370,7 +370,7 @@
 
 **最便宜的订阅有7元 60g/月(年付)。**
 
-**点击购买👉👉** [二猫云(2mao)VPN官网](https://ilil.uk/2mao)
+**点击购买👉👉** [二猫云(2mao)VPN官网](https://eoht.net/serve/airport/2mao)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -407,7 +407,7 @@
 
 **最便宜的订阅有9元 45g/月(年付)。**
 
-**点击购买👉👉** [边缘节点(EdgeNova)VPN官网](https://ilil.uk/edgenova)
+**点击购买👉👉** [边缘节点(EdgeNova)VPN官网](https://eoht.net/serve/airport/edgenova)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -443,7 +443,7 @@
 
 **最便宜的订阅为 MINI 链接，40GB/月，年付 ¥79，折合约 ¥6.58/月。**
 
-**点击购买👉👉** [无忧(WuYou)VPN官网](https://ilil.uk/wuyou)
+**点击购买👉👉** [无忧(WuYou)VPN官网](https://eoht.net/serve/airport/wuyou)
 
 **推广入口将跳转至服务商注册页面，请在购买前核对套餐价格和优惠适用范围。**
 
@@ -496,7 +496,7 @@
 
 **注册试用: 5GB/3 小时**
 
-**点击购买👉👉👉** [Echo VPN官网](https://ilil.uk/echo)
+**点击购买👉👉👉** [Echo VPN官网](https://eoht.net/serve/airport/echo)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -535,7 +535,7 @@
 
 **最便宜的订阅有13元 100g/月(年付)。**
 
-**点击购买👉👉👉** [SSLAR官网](https://ilil.uk/sslar)
+**点击购买👉👉👉** [SSLAR官网](https://eoht.net/serve/airport/sslar)
 
 **当前可用官方注册地址，稳定可访问，不跳转、不失效。**
 
@@ -573,7 +573,7 @@
 
 **最便宜的订阅有10元 30g/月(年付)。**
 
-**点击购买👉👉** [快狸(KuaiLi) VPN官网](https://ilil.uk/kuaili)
+**点击购买👉👉** [快狸(KuaiLi) VPN官网](https://eoht.net/serve/airport/kuaili)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -609,7 +609,7 @@
 
 **最便宜的订阅有7元 50g/月(年付)。**
 
-**点击购买👉👉** [速界(SuJie) VPN官网](https://ilil.uk/sujie)
+**点击购买👉👉** [速界(SuJie) VPN官网](https://eoht.net/serve/airport/sujie)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -644,7 +644,7 @@
 
 **最便宜的订阅有12元 100G/月（年付）。**
 
-**点击购买👉👉** [可达(KeDa)VPN官网](https://ilil.uk/keda)
+**点击购买👉👉** [可达(KeDa)VPN官网](https://eoht.net/serve/airport/keda)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -676,7 +676,7 @@
 
 **最便宜的订阅有8元 59g/月(年付)。**
 
-**点击购买👉👉** [光速云(LightSpeed)VPN官网](https://ilil.uk/lightspeed)
+**点击购买👉👉** [光速云(LightSpeed)VPN官网](https://eoht.net/serve/airport/lightspeed)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -716,7 +716,7 @@
 
 **最便宜的订阅为年付版 ¥8/月，60GB/月。**
 
-**点击购买👉👉👉** [Firefly机场官网](https://ilil.uk/firefly)
+**点击购买👉👉👉** [Firefly机场官网](https://eoht.net/serve/airport/firefly)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -758,7 +758,7 @@
 
 **最便宜的订阅有8元 60G/月（年付）。**
 
-**点击购买👉👉👉** [闪跃机场官网](https://ilil.uk/flashleap)
+**点击购买👉👉👉** [闪跃机场官网](https://eoht.net/serve/airport/flashleap)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
