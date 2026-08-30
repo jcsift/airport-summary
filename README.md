@@ -140,6 +140,7 @@
 | [光速云(LightSpeed)](#光速云-lightspeed-机场服务评测) | [光速云官网](https://eoht.net/serve/airport/lightspeed) | 8元 59g/月 | ✅ | [查看](https://eoht.net/serve/airport/lightspeed) |
 | [Firefly](#firefly机场服务评测) | [Firefly官网](https://eoht.net/serve/airport/firefly) | 8元 60g/月 | ✅ | [查看](https://eoht.net/serve/airport/firefly) |
 | [闪跃(FlashLeap)](#闪跃-flashleap-机场服务评测) | [闪跃官网](https://eoht.net/serve/airport/flashleap) | 8元 60g/月 | ❌ | [查看](https://eoht.net/serve/airport/flashleap) |
+| [可信云(KeXin)](#可信云-kexin-机场服务评测) | [可信云官网](https://eoht.net/serve/airport/kexin) | 8元 60GB/月 | ❌ | [查看](https://eoht.net/serve/airport/kexin) |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -785,6 +786,42 @@
 | **飞跃(Leap)** | **300G** | ¥44 | ¥118 | ¥224 | ¥442 | 无限制 | [立即购买](https://eoht.net/serve/airport/flashleap) |
 | **瞬移(Teleport)** | **600G** | ¥84 | ¥226 | ¥428 | ¥806 | 无限制 | [立即购买](https://eoht.net/serve/airport/flashleap) |
 | **跃迁(Warp)** | **1T** | ¥134 | ¥369 | ¥698 | ¥1315 | 无限制 | [立即购买](https://eoht.net/serve/airport/flashleap) |
+
+---
+
+<a id="可信云-kexin-机场服务评测"></a>
+
+### 可信云(KeXin)机场服务评测
+
+**最便宜的订阅为年费小礼包，60GB/月，年付 ¥96，折合 ¥8/月。**
+
+**点击购买👉👉👉** [可信云(KeXin)VPN官网](https://eoht.net/serve/airport/kexin)
+
+**本页汇总可信云(KeXin)机场套餐价格、IEPL 线路、流媒体与 AI 支持及测速记录；价格和节点状态可能调整，购买前请以服务商结算页信息为准。**
+
+> **安全为本，极速无界。**
+
+**可信云(KeXin)** 套餐页将全 IEPL 专线、多地区覆盖和大流量方案作为主要特点。服务商介绍称其通过分布式网络和多重加密技术改善跨地区访问体验，并执行无日志策略；实际延迟、速度和隐私保障应以当前服务条款、所选节点及本地网络测试为准。
+
+- 常规套餐页标注 **60+ 专线节点**，覆盖香港、台湾、新加坡、日本、美国等地区；
+- 服务商列有 **ChatGPT、Gemini、TikTok、主流流媒体及其他 AI 工具**支持；
+- 月付小包页面另列有原生 IP、流媒体解锁和客服响应；
+- 服务商将 4K/8K 视频、跨国游戏、AI 工具和跨地区办公列为适用场景，实际体验取决于节点和本地网络。
+
+**支付方式** 支付宝 微信支付 USDT
+
+> [!TIP]
+> - **周期价格**：常规套餐季付为 95 折、年付为 85 折；最终价格以结算页为准。
+> - **新手建议**：低频使用选**年费小礼包**，短期体验可选**月付小包**；日常流媒体与 AI 工具可从 **Basic / Standard** 开始比较，高流量使用再考虑 **Pro / Ultimate**。
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
+| --- | --- | --- | --- | --- | --- |
+| **月付小包** | **60GB** | ¥15 | - | - | [立即购买](https://eoht.net/serve/airport/kexin) |
+| **年费小礼包** | **60GB** | - | - | ¥96 | [立即购买](https://eoht.net/serve/airport/kexin) |
+| **基础版 Basic** | **150GB** | ¥25 | ¥71.25 | ¥255 | [立即购买](https://eoht.net/serve/airport/kexin) |
+| **标准版 Standard** | **300GB** | ¥50 | ¥142.50 | ¥510 | [立即购买](https://eoht.net/serve/airport/kexin) |
+| **专业版 Pro** | **600GB** | ¥100 | ¥285 | ¥1020 | [立即购买](https://eoht.net/serve/airport/kexin) |
+| **旗舰版 Ultimate** | **1.2TB** | ¥200 | ¥570 | ¥2040 | [立即购买](https://eoht.net/serve/airport/kexin) |
 
 ---
 
