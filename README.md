@@ -144,12 +144,12 @@
 | [梯子云(LadderCloud)](#梯子云-laddercloud-机场服务评测) | [梯子云官网](https://eoht.net/serve/airport/laddercloud) | ¥89/年 · 60GB/月（约 ¥7.42/月） | ❌ | [查看](https://eoht.net/serve/airport/laddercloud) |
 | [隐形人(YinXingRen)](#隐形人-yinxingren-机场服务评测) | [隐形人官网](https://eoht.net/serve/airport/yinxingren) | ¥109/年 · 80GB/月（约 ¥9.08/月） | ❌ | [查看](https://eoht.net/serve/airport/yinxingren) |
 | [九云机场(9Yun)](#九云机场-9yun-机场服务评测) | [九云机场官网](https://eoht.net/serve/airport/9yun) | ¥72/年 · 200GB/月（折合 ¥6/月） | ✅ | [查看](https://eoht.net/serve/airport/9yun) |
-| [财路云(CaiLu)](#财路云-cailu-机场服务评测) | [财路云官网](https://eoht.net/serve/airport/cailu) | ¥84/年 · 标称 64GB/月，2 倍率约 32GB 用量/月（折合 ¥7/月） | ✅ | [查看](https://eoht.net/serve/airport/cailu) |
+| [财路云(CaiLu)](#财路云-cailu-机场服务评测) | [财路云官网](https://eoht.net/serve/airport/cailu) | ¥84/年 · 标称 64GB/月（折合 ¥7/月） | ✅ | [查看](https://eoht.net/serve/airport/cailu) |
 | [鲤云(LiYun)](#鲤云-liyun-机场服务评测) | [鲤云官网](https://eoht.net/serve/airport/liyun) | ¥84/年 · 64GB/月（折合 ¥7/月） | ✅ | [查看](https://eoht.net/serve/airport/liyun) |
 | [锦云(JinYun)](#锦云-jinyun-机场服务评测) | [锦云官网](https://eoht.net/serve/airport/jinyun) | ¥72/年 · 64GB/月（折合 ¥6/月） | ✅ | [查看](https://eoht.net/serve/airport/jinyun) |
 | [秒秒云(MiaoMiao)](#秒秒云-miaomiao-机场服务评测) | [秒秒云官网](https://eoht.net/serve/airport/miaomiao) | ¥79/年 · 64GB/月（约 ¥6.58/月） | ✅ | [查看](https://eoht.net/serve/airport/miaomiao) |
 | [山水云(SSY)](#山水云-ssy-机场服务评测) | [山水云官网](https://eoht.net/serve/airport/ssy) | ¥88/年 · 64GB/月（约 ¥7.33/月） | ✅ | [查看](https://eoht.net/serve/airport/ssy) |
-| [极速云(JiSu)](#极速云-jisu-机场服务评测) | [极速云官网](https://eoht.net/serve/airport/jisu) | ¥320/年 · 限时轻量标称 500GB/月，10 倍率约 50GB 用量/月（约 ¥26.67/月） | ✅ | [查看](https://eoht.net/serve/airport/jisu) |
+| [极速云(JiSu)](#极速云-jisu-机场服务评测) | [极速云官网](https://eoht.net/serve/airport/jisu) | ¥320/年 · 限时轻量标称 500GB/月（约 ¥26.67/月） | ✅ | [查看](https://eoht.net/serve/airport/jisu) |
 | [宝云(BaoYun)](#宝云-baoyun-机场服务评测) | [宝云官网](https://eoht.net/serve/airport/baoyun) | ¥60/年 · 64GB/月（折合 ¥5/月） | ✅ | [查看](https://eoht.net/serve/airport/baoyun) |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
