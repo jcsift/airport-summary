@@ -1148,7 +1148,7 @@
 
 周期套餐可购买流量重置包。
 
-<a href="https://eoht.net/serve/airport/cailu" target="_blank" rel="sponsored noreferrer">访问财路云官网</a> · [查看完整评测](https://eoht.net/serve/airport/cailu) · [独立仓库 CaiLu](https://github.com/gh-theo/CaiLu)
+<a href="https://eoht.net/serve/airport/cailu" target="_blank" rel="sponsored noreferrer">访问财路云官网</a> · [查看完整评测](https://eoht.net/serve/airport/cailu) · [独立仓库 CaiLu](https://github.com/jcsift/CaiLu)
 
 ---
 
@@ -1199,7 +1199,7 @@
 
 64GB 特惠、小鲤、中鲤及大鲤套餐可购买流量重置包。
 
-<a href="https://eoht.net/serve/airport/liyun" target="_blank" rel="sponsored noreferrer">访问鲤云官网</a> · [查看完整评测](https://eoht.net/serve/airport/liyun) · [独立仓库 LiYun](https://github.com/gh-theo/LiYun)
+<a href="https://eoht.net/serve/airport/liyun" target="_blank" rel="sponsored noreferrer">访问鲤云官网</a> · [查看完整评测](https://eoht.net/serve/airport/liyun) · [独立仓库 LiYun](https://github.com/jcsift/LiYun)
 
 ---
 
@@ -1258,7 +1258,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **不限时 100GB** | **100GB** | 不限时，用完即止，不会重置 | ¥99 | [立即购买](https://eoht.net/serve/airport/jinyun) |
 
-<a href="https://eoht.net/serve/airport/jinyun" target="_blank" rel="sponsored noreferrer">访问锦云官网</a> · [查看完整评测](https://eoht.net/serve/airport/jinyun) · [独立仓库 JinYun](https://github.com/gh-theo/JinYun)
+<a href="https://eoht.net/serve/airport/jinyun" target="_blank" rel="sponsored noreferrer">访问锦云官网</a> · [查看完整评测](https://eoht.net/serve/airport/jinyun) · [独立仓库 JinYun](https://github.com/jcsift/JinYun)
 
 ---
 
@@ -1322,7 +1322,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **10GB 试用** | **10GB** | ¥15 | 试用套餐，不可复购 | [立即购买](https://eoht.net/serve/airport/miaomiao) |
 
-<a href="https://eoht.net/serve/airport/miaomiao" target="_blank" rel="sponsored noreferrer">访问秒秒云官网</a> · [查看完整评测](https://eoht.net/serve/airport/miaomiao) · [独立仓库 MiaoMiao](https://github.com/gh-theo/MiaoMiao)
+<a href="https://eoht.net/serve/airport/miaomiao" target="_blank" rel="sponsored noreferrer">访问秒秒云官网</a> · [查看完整评测](https://eoht.net/serve/airport/miaomiao) · [独立仓库 MiaoMiao](https://github.com/jcsift/MiaoMiao)
 
 ---
 
@@ -1394,7 +1394,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **10GB 试用** | **10GB** | ¥15 | 不能复购 | [立即购买](https://eoht.net/serve/airport/ssy) |
 
-<a href="https://eoht.net/serve/airport/ssy" target="_blank" rel="sponsored noreferrer">访问山水云官网</a> · [查看完整评测](https://eoht.net/serve/airport/ssy) · [独立仓库 SSY](https://github.com/gh-theo/SSY)
+<a href="https://eoht.net/serve/airport/ssy" target="_blank" rel="sponsored noreferrer">访问山水云官网</a> · [查看完整评测](https://eoht.net/serve/airport/ssy) · [独立仓库 SSY](https://github.com/jcsift/SSY)
 
 ---
 
@@ -1479,7 +1479,7 @@
 | **不限时 2000GB** | **2000GB** | 约 200GB | ¥658 | [立即购买](https://eoht.net/serve/airport/jisu) |
 | **不限时 2500GB** | **2500GB** | 约 250GB | ¥800 | [立即购买](https://eoht.net/serve/airport/jisu) |
 
-<a href="https://eoht.net/serve/airport/jisu" target="_blank" rel="sponsored noreferrer">访问极速云官网</a> · [查看完整评测](https://eoht.net/serve/airport/jisu) · [独立仓库 JiSu](https://github.com/gh-theo/JiSu)
+<a href="https://eoht.net/serve/airport/jisu" target="_blank" rel="sponsored noreferrer">访问极速云官网</a> · [查看完整评测](https://eoht.net/serve/airport/jisu) · [独立仓库 JiSu](https://github.com/jcsift/JiSu)
 
 ---
 
@@ -1534,7 +1534,7 @@
 
 周期套餐可购买流量重置包。
 
-<a href="https://eoht.net/serve/airport/baoyun" target="_blank" rel="sponsored noreferrer">访问宝云官网</a> · [查看完整评测](https://eoht.net/serve/airport/baoyun) · [独立仓库 BaoYun](https://github.com/gh-theo/BaoYun)
+<a href="https://eoht.net/serve/airport/baoyun" target="_blank" rel="sponsored noreferrer">访问宝云官网</a> · [查看完整评测](https://eoht.net/serve/airport/baoyun) · [独立仓库 BaoYun](https://github.com/jcsift/BaoYun)
 
 ---
 
@@ -1580,7 +1580,7 @@
 - **套餐形式**：提供按周期付费的套餐，没有不限时套餐。
 - **共同规则**：全 IPLC 专线、不限速、节点 ×1、不限制客户端，套餐标注最大可达带宽 1000Mbps。
 
-<a href="https://eoht.net/serve/airport/spiritcat" target="_blank" rel="sponsored noreferrer">访问灵猫网络官网</a> · [查看完整评测](https://eoht.net/serve/airport/spiritcat) · [独立仓库 SpiritCat](https://github.com/gh-theo/SpiritCat)
+<a href="https://eoht.net/serve/airport/spiritcat" target="_blank" rel="sponsored noreferrer">访问灵猫网络官网</a> · [查看完整评测](https://eoht.net/serve/airport/spiritcat) · [独立仓库 SpiritCat](https://github.com/jcsift/SpiritCat)
 
 ---
 
@@ -1634,7 +1634,7 @@
 
 定制包的具体流量、线路配置与服务范围需向在线客服确认，最终方案及费用以双方确认内容为准。
 
-<a href="https://eoht.net/serve/airport/u1s1" target="_blank" rel="sponsored noreferrer">访问有一说一官网</a> · [查看完整评测](https://eoht.net/serve/airport/u1s1) · [独立仓库 U1S1](https://github.com/gh-theo/U1S1)
+<a href="https://eoht.net/serve/airport/u1s1" target="_blank" rel="sponsored noreferrer">访问有一说一官网</a> · [查看完整评测](https://eoht.net/serve/airport/u1s1) · [独立仓库 U1S1](https://github.com/jcsift/U1S1)
 
 <a id="vpn-airport-beginner-guide"></a>
 
