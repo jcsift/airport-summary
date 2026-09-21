@@ -128,6 +128,9 @@
 | 名称 | 官网 | 最便宜年付 | 不限时 | 通用订阅 | 详情 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [星岛梦(StarDream)](#stardream-airport-review) | [星岛梦](https://eoht.net/serve/airport/xdm) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往</a> |
+| [微风网络(Breeze)](#breeze-airport-review) | [微风网络](https://eoht.net/serve/airport/breeze) | 约¥11.42 · 100GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/breeze" aria-label="查看微风网络完整详情">前往</a> |
+| [飞猫云(FlyCat)](#flycat-airport-review) | [飞猫云](https://eoht.net/serve/airport/flycat) | ¥7 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/flycat" aria-label="查看飞猫云完整详情">前往</a> |
+| [暮光网络(TwiLight)](#twilight-airport-review) | [暮光网络](https://eoht.net/serve/airport/twilight) | 约¥9.08 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/twilight" aria-label="查看暮光网络完整详情">前往</a> |
 | [Sogo云](#sogo-airport-review) | [Sogo云](https://eoht.net/serve/airport/sogo) | 约¥8.17 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往</a> |
 | [宇宙云(YuZhou)](#yuzhou-airport-review) | [宇宙云](https://eoht.net/serve/airport/yuzhou) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往</a> |
 | <a href="#1fly-airport-review">一翻云(1fly)</a> | [一翻云](https://eoht.net/serve/airport/1fly) | 约¥8.17 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往</a> |
@@ -206,6 +209,179 @@
 | **永久不限时1TB**  |   **1TB**    |    ¥600    | [立即购买](https://eoht.net/serve/airport/xdm) |
 
 <a href="https://eoht.net/serve/airport/xdm" target="_blank" rel="sponsored noreferrer">访问星岛梦官网</a> · [查看完整评测](https://eoht.net/serve/airport/xdm)
+
+---
+
+<a id="breeze-airport-review"></a>
+
+### 微风网络(Breeze)
+
+**月付最低 ¥27、200GB/月；清风年付 ¥137/年、100GB/月，折合约 ¥11.42/月。另有 ¥200/270GB 与 ¥370/570GB 不限时流量包。**
+
+[查看微风网络套餐](https://eoht.net/serve/airport/breeze)
+
+本页整理微风网络(Breeze)的推广注册入口、套餐价格、支付方式及测速和解锁截图，实际套餐与服务内容以当前购买页为准。
+**微风网络(Breeze)** 提供三网优化入口与 IPLC 专线，面向日常上网、影音娱乐、AI 工具及多设备使用场景。
+
+- **线路与速度**：套餐标注全 IPLC 专线、不限速，服务介绍主打晚高峰低延迟与 4K / 8K 影音体验。
+- **流媒体与 AI**：服务资料列有 **Netflix、Disney+、ChatGPT、Claude** 支持；商家介绍称全节点提供 ChatGPT 与 Claude 的住宅 IP 解锁能力，具体表现可参考下方解锁图并结合实际节点确认。
+- **协议与订阅**：支持通用订阅，服务资料列有 **Shadowsocks、VMess、Trojan**，可导入兼容的第三方客户端。
+- **系统与设备**：支持 **Windows、macOS、iOS、Android**，套餐标注不限制设备同时接入。
+- **售后支持**：服务资料列有 **24/7 在线客服、Telegram 群组与工单系统**。
+> [!TIP]
+> **套餐价格说明**
+>
+> - 下表为套餐标价，月付、季付、半年付与年付均为对应付款周期的总额；周期套餐的流量为每月额度。
+> - 清风年付折合约 ¥11.42/月，但购买时需一次支付 ¥137，不能按折算价单月购买。
+> - “—”表示提供的套餐截图未展示该付款周期。不限时套餐单独列出，流量为一次性总额度。
+>
+
+**支付方式** 支付宝 微信支付 USDT
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **清风（Breeze）** | **100GB** | — | — | — | ¥137 | [立即购买](https://eoht.net/serve/airport/breeze) |
+| **乘风（Riding）** | **200GB** | ¥27 | ¥72 | ¥137 | ¥259 | [立即购买](https://eoht.net/serve/airport/breeze) |
+| **破风（Breaking）** | **500GB** | ¥57 | ¥153 | ¥290 | ¥547 | [立即购买](https://eoht.net/serve/airport/breeze) |
+| **御风（Mastery）** | **1200GB（1.2TB）** | ¥127 | ¥342 | ¥647 | ¥1219 | [立即购买](https://eoht.net/serve/airport/breeze) |
+
+- **流量重置**：清风注明每月 100GB，按购买日起自动重置；其他周期套餐同样按每月额度提供流量，具体重置规则以购买页为准。
+- **共同规则**：全 IPLC 专线、不限速、不限制设备同时接入，支持通用订阅。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **信风·不限时** | **270GB** | **¥200** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/breeze) |
+| **长风·不限时** | **570GB** | **¥370** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/breeze) |
+
+不限时套餐标注流量永不过期、用完为止，同样采用全 IPLC 专线，不限速、不限制设备同时接入。270GB 与 570GB 是各自套餐的总流量，不是每月重置额度，也不代表无限流量。
+
+<a href="https://eoht.net/serve/airport/breeze" target="_blank" rel="sponsored noreferrer">访问微风网络官网</a> · [查看完整评测](https://eoht.net/serve/airport/breeze) · [独立仓库 Breeze](https://github.com/jcsift/Breeze)
+
+---
+
+<a id="flycat-airport-review"></a>
+
+### 飞猫云(FlyCat)
+
+**月付最低 ¥25、150GB/月；学生版 ¥84/年、50GB/月，折合 ¥7/月。新用户季付及以上可使用 8 折优惠码 `flycat888`。**
+
+[查看飞猫云套餐](https://eoht.net/serve/airport/flycat)
+
+本页整理飞猫云(FlyCat)的推广注册入口、套餐价格、优惠码、自研客户端与通用订阅说明，以及拓扑、测速和解锁截图。实际套餐、优惠适用范围与服务内容以当前购买页为准。
+**飞猫云(FlyCat)** 面向预算有限的新手、流媒体用户和 ChatGPT / Claude 使用者，提供低流量年付小包、多档周期套餐、不限时流量包及专属定制方案。
+
+- **线路与速度**：服务介绍主打 **IEPL 专线**与晚高峰稳定性；常规套餐标注最高 **2.5Gbps** 速率、节点 **×1**，并承诺高峰时段不降速，实际表现可结合自己的网络和测速图参考。
+- **流媒体与 AI**：服务介绍列有 **Netflix、Disney+、ChatGPT、Claude、TikTok** 等平台支持，套餐注明原生 IP 线路。
+- **客户端与协议**：提供自研客户端，支持 **Shadowsocks、Trojan、VLESS**；兼容协议的 Clash 系客户端、Shadowrocket、v2rayN、Stash 等可通过订阅导入使用。
+- **设备与地区**：套餐标注不限制设备连接数量，节点覆盖香港、台湾、日本、新加坡、美国、韩国及其他地区。
+- **定制服务**：提供专属节点、独享原生 IP、独立带宽和一对一技术支持，适用于跨境电商、直播、企业应用与远程办公。
+- **使用提醒**：热门时段香港节点偶有排队，建议结合常用时段核对节点可用性。
+> [!TIP]
+> **新用户季付及以上 8 折**
+>
+> - **优惠码**：`flycat888`
+> - **适用条件**：新用户购买季付及以上套餐，在结算页输入优惠码并确认折扣生效；月付不在该优惠说明范围内。
+> - **价格说明**：下表保留套餐截图标价，未预先叠加新人优惠。月付、季付、半年付与年付均为对应付款周期的总额，流量为每月额度；“—”表示截图未展示该付款周期。
+> - **优惠叠加**：套餐介绍另列年付 8 折、两年付 7 折、三年付 6 折；下表不再次按这些折扣计算。是否与新人优惠码叠加、具体适用套餐及最终实付金额，以结算页为准。
+>
+
+**支付方式** 支付宝 微信支付 USDT
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **学生版** | **50GB** | — | — | — | ¥84 | [立即购买](https://eoht.net/serve/airport/flycat) |
+| **星耀版** | **150GB** | ¥25 | ¥67 | ¥127 | ¥240 | [立即购买](https://eoht.net/serve/airport/flycat) |
+| **星环版** | **300GB** | ¥45 | ¥121 | ¥229 | ¥432 | [立即购买](https://eoht.net/serve/airport/flycat) |
+| **银河版** | **600GB** | ¥85 | ¥229 | ¥433 | ¥816 | [立即购买](https://eoht.net/serve/airport/flycat) |
+| **宇宙版** | **1000GB（1.0TB）** | ¥150 | ¥400 | ¥750 | ¥1360 | [立即购买](https://eoht.net/serve/airport/flycat) |
+
+- **流量重置**：星耀版、星环版、银河版与宇宙版注明季付及以上用户从购买日起**每 30 天自动刷新流量**；学生版注明每月自动刷新。
+- **年付说明**：学生版的 50GB 为每月额度，不是全年共用 50GB；¥7/月是年付 ¥84 的折算价，不能按 ¥7 单月购买。
+- **共同规则**：常规套餐标注节点 ×1、高峰时段不降速、最高 2.5Gbps 速率及不限制设备连接数量。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **不限时套餐** | **1000GB（1.0TB）** | **¥680** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/flycat) |
+
+- **流量规则**：一次性购买，1000GB 为固定总流量，不是每月额度；购买后不按周期自动重置。
+- **手动重置**：支持付费手动重置流量，费用为原价的 90%，即 **¥612（¥680 × 0.9）**。
+- **套餐权益**：节点 ×1、晚高峰不限速、最高 2.5Gbps 速率，不限制同时使用的客户端数量；支持原生 IP 流媒体解锁及 ChatGPT、TikTok。
+- **折扣说明**：该套餐不适用周期套餐的年付、两年付、三年付折扣规则；`flycat888` 的优惠说明仅涵盖新用户季付及以上周期套餐。
+
+**定制套餐**
+
+| 套餐类型 | 页面标注流量/月 | 月付标价 | 服务说明 | 咨询入口 |
+|:---:|:---:|:---:|:---:|:---:|
+| **定制套餐** | **500GB** | **¥550** | 专属节点、独享原生 IP、独立带宽、一对一技术支持 | [咨询定制](https://eoht.net/serve/airport/flycat) |
+
+定制套餐可按需求调整流量、带宽与线路地区，支持香港、日本、美国、新加坡等地区；具体部署、配置与报价需联系客服确认。
+
+<a href="https://eoht.net/serve/airport/flycat" target="_blank" rel="sponsored noreferrer">访问飞猫云官网</a> · [查看完整评测](https://eoht.net/serve/airport/flycat) · [独立仓库 FlyCat](https://github.com/jcsift/FlyCat)
+
+---
+
+<a id="twilight-airport-review"></a>
+
+### 暮光网络(TwiLight)
+
+**月付最低 ¥20、120GB/月；年付轻量版 ¥109/年、70GB/月，折合约 ¥9.08/月。另有 ¥219/150GB 起的不限时流量包。**
+
+[查看暮光网络套餐](https://eoht.net/serve/airport/twilight)
+
+本页整理暮光网络(TwiLight)的推广注册入口、套餐价格、支付方式、通用订阅与测速资料。实际套餐、节点和服务条款以当前购买页为准。
+**暮光网络(TwiLight)** 的服务商资料称，其由新加坡海外团队运营，于 **2025 年成立**，提供周期套餐、一次性不限时流量包和独享私人定制节点。
+
+- **协议与线路**：支持 **VLESS、Shadowsocks**；套餐描述采用 **BGP 智能路由与专线出口**，资料未明确具体专线入口类型。
+- **节点地区**：覆盖**香港、台湾、日本、新加坡、美国**。服务商资料标注香港 20 个，其余四个地区各 10 个，实际数量可能随维护调整。
+- **流媒体与 AI**：服务商宣称支持 **Netflix、Hulu、HBO、Disney+、DAZN、ChatGPT、Claude** 等平台，并主打晚高峰 4K / 8K 播放体验；所提供的测速图不能单独证明解锁能力或持续播放表现。
+- **通用订阅与设备**：支持通用订阅；基础版至至尊版的套餐说明支持多设备使用，基础版和旗舰版明确标注不限设备数量。具体订阅格式与并发规则以面板及所选套餐为准。
+- **客服与退款**：服务商称提供 **24 小时在线客服、线路问题 1 小时内处理与退款支持**，资料未给出服务等级协议、退款窗口或已用流量扣费规则；这些是服务商承诺，不代表无条件退款。
+> [!TIP]
+> **套餐价格说明**
+>
+> - 月付、季付、半年付与年付均为对应付款周期的总额；周期套餐的流量为每月额度。
+> - 年付轻量版需一次支付 ¥109，折合约 ¥9.08/月；截图标注月流量 70GB，不是全年共用 70GB。
+> - “—”表示提供的套餐截图未展示该付款周期。不限时流量包单独列出，流量为一次性总额度。
+>
+
+**支付方式** 支付宝 微信支付 USDT
+
+微信支付和 USDT 需联系官网客服办理。
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **年付轻量版** | **70GB** | — | — | — | ¥109 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **基础版** | **120GB** | ¥20 | ¥57 | ¥103 | ¥204 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **标准版** | **300GB** | ¥40 | ¥114 | ¥216 | ¥408 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **旗舰版** | **700GB** | ¥100 | ¥285 | ¥540 | ¥1020 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **至尊版** | **1500GB（1.5TB）** | ¥180 | ¥513 | ¥972 | ¥1836 | [立即购买](https://eoht.net/serve/airport/twilight) |
+
+- **流量规则**：周期套餐按每月额度提供流量，具体重置日期以购买页及面板为准。
+- **常规套餐说明**：基础版至至尊版标注 BGP 智能路由与专线出口、节点 ×1、不放大流量计费，并支持多设备使用；基础版、标准版和至尊版另注明不限速。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **不限时轻量包** | **150GB** | **¥219** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **不限时标准包** | **400GB** | **¥529** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/twilight) |
+| **不限时大容量包** | **800GB** | **¥959** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/twilight) |
+
+三档均为一次性总流量，套餐标注永久有效、用完即止、不按周期重置，节点按 **1.0×** 流量计费，支持多终端及多人团队同时使用。150GB、400GB 与 800GB 不代表每月额度，也不代表无限流量。
+
+**独享私人定制节点**
+
+| 套餐类型 | 流量/月 | 月付标价 | 服务说明 | 咨询入口 |
+|:---:|:---:|:---:|:---:|:---:|
+| **独享私人定制节点** | **500GB** | **¥680** | 独立带宽、独立公网 IP、专人技术维护 | [咨询定制](https://eoht.net/serve/airport/twilight) |
+
+该套餐面向独立站部署、TikTok 直播及跨境业务等需求。套餐说明称资源不与他人共享，下单后约 **2–3 个工作日**完成交付，具体定制需求通过工单确认。
+
+<a href="https://eoht.net/serve/airport/twilight" target="_blank" rel="sponsored noreferrer">访问暮光网络官网</a> · [查看完整评测](https://eoht.net/serve/airport/twilight) · [独立仓库 TwiLight](https://github.com/jcsift/TwiLight)
 
 ---
 
