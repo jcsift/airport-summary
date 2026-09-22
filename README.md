@@ -10,7 +10,7 @@
 
 也欢迎推荐具有公开信息、可核对套餐和服务说明的机场方案。
 
-[查看机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [按卡片浏览机场](https://github.com/jcsift/airport-summary/blob/main/cards.md)
+[查看机场优惠码汇总](https://github.com/jcsift/airport-coupons) · [按卡片浏览机场](https://github.com/jcsift/airport-cards)
 
 > [!TIP]
 > **先按需求快速筛选**
