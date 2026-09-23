@@ -116,7 +116,7 @@
 
 ## 2026年翻墙VPN机场推荐一览表
 
-点击表格中的**机场名称**可跳转至本页对应机场介绍；点击**“前往”**可查看完整详情页。
+点击表格中的**机场名称**可跳转至本页对应机场介绍；点击**“前往详情”**可查看完整详情页。
 
 <details>
 <summary>表格说明</summary>
@@ -129,38 +129,39 @@
 
 | 名称 | 官网 | 最便宜年付 | 不限时 | 通用订阅 | 详情 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [星岛梦(StarDream)](#stardream-airport-review) | [星岛梦](https://eoht.net/serve/airport/xdm) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往</a> |
-| [微风网络(Breeze)](#breeze-airport-review) | [微风网络](https://eoht.net/serve/airport/breeze) | 约¥11.42 · 100GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/breeze" aria-label="查看微风网络完整详情">前往</a> |
-| [飞猫云(FlyCat)](#flycat-airport-review) | [飞猫云](https://eoht.net/serve/airport/flycat) | ¥7 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/flycat" aria-label="查看飞猫云完整详情">前往</a> |
-| [暮光网络(TwiLight)](#twilight-airport-review) | [暮光网络](https://eoht.net/serve/airport/twilight) | 约¥9.08 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/twilight" aria-label="查看暮光网络完整详情">前往</a> |
-| [Sogo云](#sogo-airport-review) | [Sogo云](https://eoht.net/serve/airport/sogo) | 约¥8.17 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往</a> |
-| [宇宙云(YuZhou)](#yuzhou-airport-review) | [宇宙云](https://eoht.net/serve/airport/yuzhou) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往</a> |
-| <a href="#1fly-airport-review">一翻云(1fly)</a> | [一翻云](https://eoht.net/serve/airport/1fly) | 约¥8.17 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往</a> |
-| [隐云(YinYun)](#yinyun-airport-review) | [隐云](https://eoht.net/serve/airport/yinyun) | 约¥22.83 · 150GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinyun" aria-label="查看隐云完整详情">前往</a> |
-| <a href="#2mao-airport-review">二猫云(2mao)</a> | [二猫云](https://eoht.net/serve/airport/2mao) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往</a> |
-| [边缘节点(EdgeNova)](#edgenova-airport-review) | [边缘节点](https://eoht.net/serve/airport/edgenova) | ¥9 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往</a> |
-| [无忧链接(WuYou)](#wuyou-airport-review) | [无忧链接](https://eoht.net/serve/airport/wuyou) | 约¥6.58 · 40GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/wuyou" aria-label="查看无忧链接完整详情">前往</a> |
-| [Echo](#echo-airport-review) | [Echo](https://eoht.net/serve/airport/echo) | ¥8 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/echo" aria-label="查看 Echo 完整详情">前往</a> |
-| [SSLAR](#sslar-airport-review) | [SSLAR](https://eoht.net/serve/airport/sslar) | 约¥13.58 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sslar" aria-label="查看 SSLAR 完整详情">前往</a> |
-| [快狸(KuaiLi)](#kuaili-airport-review) | [快狸](https://eoht.net/serve/airport/kuaili) | ¥10 · 30GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kuaili" aria-label="查看快狸完整详情">前往</a> |
-| [速界(SuJie)](#sujie-airport-review) | [速界](https://eoht.net/serve/airport/sujie) | ¥7.5 · 50GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sujie" aria-label="查看速界完整详情">前往</a> |
-| [可达(KeDa)](#keda-airport-review) | [可达](https://eoht.net/serve/airport/keda) | ¥12 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/keda" aria-label="查看可达完整详情">前往</a> |
-| [光速云(LightSpeed)](#lightspeed-airport-review) | [光速云](https://eoht.net/serve/airport/lightspeed) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lightspeed" aria-label="查看光速云完整详情">前往</a> |
-| [飞为(Firefly)](#firefly-airport-review) | [飞为](https://eoht.net/serve/airport/firefly) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/firefly" aria-label="查看飞为完整详情">前往</a> |
-| [闪跃(FlashLeap)](#flashleap-airport-review) | [闪跃](https://eoht.net/serve/airport/flashleap) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/flashleap" aria-label="查看闪跃完整详情">前往</a> |
-| [可信云(KeXin)](#kexin-airport-review) | [可信云](https://eoht.net/serve/airport/kexin) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kexin" aria-label="查看可信云完整详情">前往</a> |
-| [梯子云(LadderCloud)](#laddercloud-airport-review) | [梯子云](https://eoht.net/serve/airport/laddercloud) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/laddercloud" aria-label="查看梯子云完整详情">前往</a> |
-| [隐形人(YinXingRen)](#yinxingren-airport-review) | [隐形人](https://eoht.net/serve/airport/yinxingren) | 约¥9.08 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinxingren" aria-label="查看隐形人完整详情">前往</a> |
-| <a href="#9yun-airport-review">九云机场(9Yun)</a> | [九云机场](https://eoht.net/serve/airport/9yun) | ¥6 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/9yun" aria-label="查看九云机场完整详情">前往</a> |
-| [财路云(CaiLu)](#cailu-airport-review) | [财路云](https://eoht.net/serve/airport/cailu) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/cailu" aria-label="查看财路云完整详情">前往</a> |
-| [鲤云(LiYun)](#liyun-airport-review) | [鲤云](https://eoht.net/serve/airport/liyun) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/liyun" aria-label="查看鲤云完整详情">前往</a> |
-| [锦云(JinYun)](#jinyun-airport-review) | [锦云](https://eoht.net/serve/airport/jinyun) | ¥6 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jinyun" aria-label="查看锦云完整详情">前往</a> |
-| [秒秒云(MiaoMiao)](#miaomiao-airport-review) | [秒秒云](https://eoht.net/serve/airport/miaomiao) | 约¥6.58 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/miaomiao" aria-label="查看秒秒云完整详情">前往</a> |
-| [山水云(SSY)](#ssy-airport-review) | [山水云](https://eoht.net/serve/airport/ssy) | 约¥7.33 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/ssy" aria-label="查看山水云完整详情">前往</a> |
-| [极速云(JiSu)](#jisu-airport-review) | [极速云](https://eoht.net/serve/airport/jisu) | 约¥26.67 · 500GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jisu" aria-label="查看极速云完整详情">前往</a> |
-| [宝云(BaoYun)](#baoyun-airport-review) | [宝云](https://eoht.net/serve/airport/baoyun) | ¥4 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/baoyun" aria-label="查看宝云完整详情">前往</a> |
-| [灵猫网络(SpiritCat)](#spiritcat-airport-review) | [灵猫网络](https://eoht.net/serve/airport/spiritcat) | 约¥7.08 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/spiritcat" aria-label="查看灵猫网络完整详情">前往</a> |
-| [有一说一(U1S1)](#u1s1-airport-review) | [有一说一](https://eoht.net/serve/airport/u1s1) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/u1s1" aria-label="查看有一说一完整详情">前往</a> |
+| [星岛梦(StarDream)](#stardream-airport-review) | [前往官网](https://eoht.net/serve/airport/xdm) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往详情</a> |
+| [微风网络(Breeze)](#breeze-airport-review) | [前往官网](https://eoht.net/serve/airport/breeze) | 约¥11.42 · 100GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/breeze" aria-label="查看微风网络完整详情">前往详情</a> |
+| [飞猫云(FlyCat)](#flycat-airport-review) | [前往官网](https://eoht.net/serve/airport/flycat) | ¥7 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/flycat" aria-label="查看飞猫云完整详情">前往详情</a> |
+| [暮光网络(TwiLight)](#twilight-airport-review) | [前往官网](https://eoht.net/serve/airport/twilight) | 约¥9.08 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/twilight" aria-label="查看暮光网络完整详情">前往详情</a> |
+| [Sogo云](#sogo-airport-review) | [前往官网](https://eoht.net/serve/airport/sogo) | 约¥8.17 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往详情</a> |
+| [宇宙云(YuZhou)](#yuzhou-airport-review) | [前往官网](https://eoht.net/serve/airport/yuzhou) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往详情</a> |
+| <a href="#1fly-airport-review">一翻云(1fly)</a> | [前往官网](https://eoht.net/serve/airport/1fly) | 约¥8.17 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往详情</a> |
+| [隐云(YinYun)](#yinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/yinyun) | 约¥22.83 · 150GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinyun" aria-label="查看隐云完整详情">前往详情</a> |
+| <a href="#2mao-airport-review">二猫云(2mao)</a> | [前往官网](https://eoht.net/serve/airport/2mao) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往详情</a> |
+| [边缘节点(EdgeNova)](#edgenova-airport-review) | [前往官网](https://eoht.net/serve/airport/edgenova) | ¥9 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往详情</a> |
+| [无忧链接(WuYou)](#wuyou-airport-review) | [前往官网](https://eoht.net/serve/airport/wuyou) | 约¥6.58 · 40GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/wuyou" aria-label="查看无忧链接完整详情">前往详情</a> |
+| [Echo](#echo-airport-review) | [前往官网](https://eoht.net/serve/airport/echo) | ¥8 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/echo" aria-label="查看 Echo 完整详情">前往详情</a> |
+| [SSLAR](#sslar-airport-review) | [前往官网](https://eoht.net/serve/airport/sslar) | 约¥13.58 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sslar" aria-label="查看 SSLAR 完整详情">前往详情</a> |
+| [快狸(KuaiLi)](#kuaili-airport-review) | [前往官网](https://eoht.net/serve/airport/kuaili) | ¥10 · 30GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kuaili" aria-label="查看快狸完整详情">前往详情</a> |
+| [速界(SuJie)](#sujie-airport-review) | [前往官网](https://eoht.net/serve/airport/sujie) | ¥7.5 · 50GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sujie" aria-label="查看速界完整详情">前往详情</a> |
+| [可达(KeDa)](#keda-airport-review) | [前往官网](https://eoht.net/serve/airport/keda) | ¥12 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/keda" aria-label="查看可达完整详情">前往详情</a> |
+| [光速云(LightSpeed)](#lightspeed-airport-review) | [前往官网](https://eoht.net/serve/airport/lightspeed) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lightspeed" aria-label="查看光速云完整详情">前往详情</a> |
+| [飞为(Firefly)](#firefly-airport-review) | [前往官网](https://eoht.net/serve/airport/firefly) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/firefly" aria-label="查看飞为完整详情">前往详情</a> |
+| [闪跃(FlashLeap)](#flashleap-airport-review) | [前往官网](https://eoht.net/serve/airport/flashleap) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/flashleap" aria-label="查看闪跃完整详情">前往详情</a> |
+| [可信云(KeXin)](#kexin-airport-review) | [前往官网](https://eoht.net/serve/airport/kexin) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kexin" aria-label="查看可信云完整详情">前往详情</a> |
+| [梯子云(LadderCloud)](#laddercloud-airport-review) | [前往官网](https://eoht.net/serve/airport/laddercloud) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/laddercloud" aria-label="查看梯子云完整详情">前往详情</a> |
+| [隐形人(YinXingRen)](#yinxingren-airport-review) | [前往官网](https://eoht.net/serve/airport/yinxingren) | 约¥9.08 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinxingren" aria-label="查看隐形人完整详情">前往详情</a> |
+| <a href="#9yun-airport-review">九云机场(9Yun)</a> | [前往官网](https://eoht.net/serve/airport/9yun) | ¥6 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/9yun" aria-label="查看九云机场完整详情">前往详情</a> |
+| [财路云(CaiLu)](#cailu-airport-review) | [前往官网](https://eoht.net/serve/airport/cailu) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/cailu" aria-label="查看财路云完整详情">前往详情</a> |
+| [鲤云(LiYun)](#liyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liyun) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/liyun" aria-label="查看鲤云完整详情">前往详情</a> |
+| [锦云(JinYun)](#jinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/jinyun) | ¥6 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jinyun" aria-label="查看锦云完整详情">前往详情</a> |
+| [秒秒云(MiaoMiao)](#miaomiao-airport-review) | [前往官网](https://eoht.net/serve/airport/miaomiao) | 约¥6.58 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/miaomiao" aria-label="查看秒秒云完整详情">前往详情</a> |
+| [山水云(SSY)](#ssy-airport-review) | [前往官网](https://eoht.net/serve/airport/ssy) | 约¥7.33 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/ssy" aria-label="查看山水云完整详情">前往详情</a> |
+| [极速云(JiSu)](#jisu-airport-review) | [前往官网](https://eoht.net/serve/airport/jisu) | 约¥26.67 · 500GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jisu" aria-label="查看极速云完整详情">前往详情</a> |
+| [宝云(BaoYun)](#baoyun-airport-review) | [前往官网](https://eoht.net/serve/airport/baoyun) | ¥4 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/baoyun" aria-label="查看宝云完整详情">前往详情</a> |
+| [灵猫网络(SpiritCat)](#spiritcat-airport-review) | [前往官网](https://eoht.net/serve/airport/spiritcat) | 约¥7.08 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/spiritcat" aria-label="查看灵猫网络完整详情">前往详情</a> |
+| [有一说一(U1S1)](#u1s1-airport-review) | [前往官网](https://eoht.net/serve/airport/u1s1) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/u1s1" aria-label="查看有一说一完整详情">前往详情</a> |
+| [云界线(YunJieXian)](#yunjiexian-airport-review) | [前往官网](https://eoht.net/serve/airport/yunjiexian) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yunjiexian" aria-label="查看云界线完整详情">前往详情</a> |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -1825,6 +1826,58 @@
 定制包的具体流量、线路配置与服务范围需向在线客服确认，最终方案及费用以双方确认内容为准。
 
 <a href="https://eoht.net/serve/airport/u1s1" target="_blank" rel="sponsored noreferrer">访问有一说一官网</a> · [查看完整评测](https://eoht.net/serve/airport/u1s1) · [独立仓库 U1S1](https://github.com/jcsift/U1S1)
+
+---
+
+<a id="yunjiexian-airport-review"></a>
+
+### 云界线(YunJieXian)
+
+**月付最低 ¥25、150GB/月；年付小包 ¥96/年、60GB/月，折合 ¥8/月。专属 8 折优惠码 `eoht666`。**
+
+[查看云界线套餐](https://eoht.net/serve/airport/yunjiexian)
+
+本页整理云界线(YunJieXian)的推广注册入口、周期套餐、不限时流量包、专属优惠与测速图，套餐价格及服务范围以当前购买页为准。
+
+**云界线(YunJieXian)** 提供按周期重置流量的套餐，以及不设到期重置的固定总流量包，适合按使用频率和每月用量选择。
+
+- **线路说明**：年付小包的套餐说明标注 **IPLC 专线**及最高 **2.5Gbps** 带宽；这是套餐标注，实际速度取决于所选节点和网络环境。
+- **流量倍率**：年付小包标注全站 **×1** 倍率，不放大流量消耗。
+- **设备数量**：套餐标注不限制设备同时接入，可按个人设备需求安排连接。
+- **通用订阅**：支持将订阅导入兼容的第三方客户端，使用时需匹配订阅格式与节点协议。
+- **流量重置**：年付小包注明每 30 天自动重置；常规周期套餐每月重置一次，另可付费重置流量。
+- **不限时套餐**：一次购买固定总流量，不按月刷新，流量用完为止。
+
+> [!TIP]
+> **专属优惠与价格说明**
+>
+> - **专属优惠码**：`eoht666`，享 **8 折**优惠。
+> - **适用条件**：具体套餐、账户限制，以及是否与付款周期优惠叠加，以结算页为准。
+> - 下表均为**使用优惠码前的标价**；各付款周期的价格为该周期总额，流量为每月额度。
+> - 年付小包需一次支付 ¥96，折合 ¥8/月不代表可以按该价格单月购买。“—”表示截图未列出该付款周期。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+**周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 两年付 | 三年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **云界年付小包** | **60GB** | — | — | — | ¥96 | — | — | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+| **轻云·基础版** | **150GB** | ¥25 | ¥72 | ¥138 | ¥240 | ¥450 | ¥630 | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+| **凌云·进阶版** | **300GB** | ¥45 | ¥129 | ¥246 | ¥432 | ¥810 | ¥1134 | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+| **高级版** | **600GB** | ¥75 | ¥216 | ¥414 | ¥720 | ¥1350 | ¥1890 | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **闲云·随心包** | **80GB** | **¥99** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+| **悠云·长享包** | **200GB** | **¥199** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/yunjiexian) |
+
+80GB 与 200GB 是一次购买的总流量，不是每月额度。不限时套餐不设到期重置，不代表无限流量。
+
+<a href="https://eoht.net/serve/airport/yunjiexian" target="_blank" rel="sponsored noreferrer">访问云界线官网</a> · [查看完整评测](https://eoht.net/serve/airport/yunjiexian) · [独立仓库 YunJieXian](https://github.com/jcsift/YunJieXian)
 
 <a id="vpn-airport-beginner-guide"></a>
 
