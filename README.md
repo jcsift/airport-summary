@@ -163,6 +163,7 @@
 | [有一说一(U1S1)](#u1s1-airport-review) | [前往官网](https://eoht.net/serve/airport/u1s1) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/u1s1" aria-label="查看有一说一完整详情">前往详情</a> |
 | [云界线(YunJieXian)](#yunjiexian-airport-review) | [前往官网](https://eoht.net/serve/airport/yunjiexian) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yunjiexian" aria-label="查看云界线完整详情">前往详情</a> |
 | [云图机场(YunTu)](#yuntu-airport-review) | [前往官网](https://eoht.net/serve/airport/yuntu) | ¥20 · 150GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yuntu" aria-label="查看云图机场完整详情">前往详情</a> |
+| [唯兔云(WeiTuYun)](#weitu-airport-review) | [前往官网](https://eoht.net/serve/airport/weitu) | 约¥6.66 · 45GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/weitu" aria-label="查看唯兔云完整详情">前往详情</a> |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -1948,6 +1949,65 @@
 不限时套餐为一次购买的固定总流量，50GB、100GB 均不是每月刷新额度，也不代表无限流量。两档套餐同样限制最多 5 台设备同时在线。
 
 <a href="https://eoht.net/serve/airport/yuntu" target="_blank" rel="sponsored noreferrer">访问云图机场官网</a> · [查看完整评测](https://eoht.net/serve/airport/yuntu) · [独立仓库 YunTu](https://github.com/jcsift/YunTu)
+
+---
+
+<a id="weitu-airport-review"></a>
+
+### 唯兔云(WeiTuYun)
+
+**年付版限量款 ¥79.90/年、45GB/月，折合约 ¥6.66/月；节日限时套餐 ¥14.90/月、100GB/月。支持通用订阅与不限时流量包，双节 8 折优惠码 `VTFEST80`。**
+
+[查看唯兔云套餐](https://eoht.net/serve/airport/weitu)
+
+本页整理唯兔云(WeiTuYun)的推广注册入口、周期套餐、不限时流量包、优惠码与测速资料，套餐供应和最终付款金额以购买页为准。
+
+**唯兔云(WeiTuYun)** 提供 IPLC 专线与 VLESS 协议节点，年付加强专线另标注为 **IEPL 企业跨境专线**，并配有备用直连节点，可按流量需求与线路选择套餐。
+
+- **节点地区**：香港、台湾、日本、新加坡、美国，以及东南亚、印度、韩国和部分欧美地区；可用节点以面板为准。
+- **流媒体与 AI**：服务商称支持 Netflix、Disney+ 等流媒体，以及 ChatGPT、Gemini、TikTok 等服务，并面向电商、直播运营提供节点选择；平台与地区可用性需结合具体节点判断。
+- **倍率与限制**：节点统一 **1 倍率**，套餐标注不限速、不限制设备数量，实际速度取决于节点及本地网络环境。
+- **通用订阅**：支持将订阅导入兼容 VLESS 协议的客户端，使用时匹配面板提供的订阅格式。
+- **客服与配置**：服务商介绍由多人客服团队轮班、海外技术团队维护，提供在线配置指导，并可提供小火箭（Shadowrocket）下载账号。
+
+> [!TIP]
+> **优惠码与价格说明**
+>
+> - **双节优惠码**：`VTFEST80`，中秋国庆活动享 **8 折**；适用套餐及叠加条件以结算页为准。
+> - **新人优惠码**：`rabbit`，限新用户，具体折扣与适用套餐以结算页为准。
+> - 下表列出**使用优惠码前的套餐标价**，各付款周期价格为该周期总额，周期套餐流量为每月额度。
+> - 年付版限量款需一次支付 ¥79.90，折合约 ¥6.66/月不代表可以按此价格单月购买。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+**周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **年付版限量款** | **45GB** | — | — | — | ¥79.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **年付加强专线（IEPL）** | **75GB** | — | — | — | ¥120 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **节日限时套餐** | **100GB** | ¥14.90 | ¥40.90 | ¥75.90 | ¥149.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **普通版** | **150GB** | ¥19.90 | ¥53.90 | ¥101.90 | ¥191.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **进阶版** | **200GB** | ¥29.90 | ¥80.90 | ¥152.90 | ¥286.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **专业版** | **500GB** | ¥59.90 | ¥161.90 | ¥305.90 | ¥547.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **至尊版** | **1000GB** | ¥119.90 | ¥323.90 | ¥611.90 | ¥1150.90 | [立即购买](https://eoht.net/serve/airport/weitu) |
+
+年付版限量款与年付加强专线面向轻量用户，当月流量用完可付费重置。节日限时套餐在指定节日开放购买，购买后可在所购套餐有效期内日常使用，并非只能节日期间使用；另有两年付 ¥250.90、三年付 ¥321.90。
+
+普通版、进阶版、专业版和至尊版的套餐说明另列年付 8 折、两年付 7 折、三年付 6 折的系统周期优惠，并说明节日活动可在基础优惠上继续打折。上表已按对应周期标价列出，不再重复计算周期折扣；优惠码是否适用于所选套餐及最终实付金额，以结算结果为准。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **永久不限时 100GB** | **100GB** | **¥100** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **永久不限时 200GB** | **200GB** | **¥160** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/weitu) |
+| **永久不限时 500GB** | **500GB** | **¥340** | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/weitu) |
+
+不限时套餐为一次购买的**固定总流量**，不按月自动刷新，不代表无限流量。三档均标注 IPLC 专线、VLESS 协议、1 倍率、不限速和不限设备数量；后续续费重置流量享 9 折，可通过面板重置流量入口操作。
+
+<a href="https://eoht.net/serve/airport/weitu" target="_blank" rel="sponsored noreferrer">访问唯兔云官网</a> · [查看完整评测](https://eoht.net/serve/airport/weitu) · [独立仓库 WeiTuYun](https://github.com/jcsift/WeiTuYun)
 
 <a id="vpn-airport-beginner-guide"></a>
 
