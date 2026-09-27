@@ -152,7 +152,7 @@
 | [梯子云(LadderCloud)](#laddercloud-airport-review) | [前往官网](https://eoht.net/serve/airport/laddercloud) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/laddercloud" aria-label="查看梯子云完整详情">前往详情</a> |
 | [隐形人(YinXingRen)](#yinxingren-airport-review) | [前往官网](https://eoht.net/serve/airport/yinxingren) | 约¥9.08 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinxingren" aria-label="查看隐形人完整详情">前往详情</a> |
 | <a href="#9yun-airport-review">九云机场(9Yun)</a> | [前往官网](https://eoht.net/serve/airport/9yun) | ¥6 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/9yun" aria-label="查看九云机场完整详情">前往详情</a> |
-| [财路云(CaiLu)](#cailu-airport-review) | [前往官网](https://eoht.net/serve/airport/cailu) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/cailu" aria-label="查看财路云完整详情">前往详情</a> |
+| [熊猫云(XiongMao)](#xiongmao-airport-review) | [前往官网](https://eoht.net/serve/airport/xiongmao) | ¥6 · 300GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xiongmao" aria-label="查看熊猫云完整详情">前往详情</a> |
 | [鲤云(LiYun)](#liyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liyun) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/liyun" aria-label="查看鲤云完整详情">前往详情</a> |
 | [锦云(JinYun)](#jinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/jinyun) | ¥6 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jinyun" aria-label="查看锦云完整详情">前往详情</a> |
 | [秒秒云(MiaoMiao)](#miaomiao-airport-review) | [前往官网](https://eoht.net/serve/airport/miaomiao) | 约¥6.58 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/miaomiao" aria-label="查看秒秒云完整详情">前往详情</a> |
@@ -1314,19 +1314,21 @@
 
 <a id="cailu-airport-review"></a>
 
-### 财路云(CaiLu)
+<a id="xiongmao-airport-review"></a>
 
-**月付最低 ¥7，提供 50GB/月；最低年付总额为 ¥84，其中 64GB/月特惠套餐折合 ¥7/月。套餐流量均按 2 倍率计费。**
+### 熊猫云(XiongMao)
 
-[立即购买财路云套餐](https://eoht.net/serve/airport/cailu)
+**月付最低 ¥6、300GB/月；最低年付 ¥72，折合 ¥6/月。套餐按 1 倍率计费，另有 ¥25.90/500GB、¥66/6000GB 的 365 天一次性流量包。**
 
-本页整理财路云(CaiLu)机场的推广注册入口、专属 8 折优惠码 `eoht`、套餐价格、三网优化线路、流媒体与 AI 支持及使用规则。价格和服务内容可能调整，实际购买金额以当前结算页为准。
+[立即购买熊猫云套餐](https://eoht.net/serve/airport/xiongmao)
 
-**财路云(CaiLu)** 的套餐页将**三网优化精品线路**列为主要特点，节点覆盖美国、香港、日本、新加坡和台湾，支持按常用地区选择连接节点。
+本页整理熊猫云(XiongMao)机场的推广注册入口、专属 8 折优惠码 `eoht`、套餐价格、三网优化线路、流媒体与 AI 支持及使用规则。价格和服务内容可能调整，实际购买金额以当前结算页为准。
+
+**熊猫云(XiongMao)** 的套餐页将**三网优化精品线路**列为主要特点，节点覆盖美国、香港、日本、新加坡和台湾，支持按常用地区选择连接节点。
 
 - **流媒体与 AI**：机场介绍称全节点支持 **Netflix（奈飞）、Disney+（迪士尼）、TVer、TikTok、ChatGPT** 等流媒体、内容平台与 AI 服务。
-- **晚高峰体验**：机场介绍将**晚高峰 8K 流畅秒开**列为服务保障；具体表现会受到本地网络、节点负载和使用时段影响。
-- **套餐范围**：提供 50GB、64GB、100GB、128GB 和 200GB 的月度流量档位，以及总计 100GB 的不限时流量包。
+- **套餐范围**：周期套餐提供 300GB、500GB、600GB 和 1200GB 的月度流量档位；一次性流量包为 500GB 或 6000GB 总额度，均有 365 天有效期。
+- **计费与设备**：统一 1 倍率。300GB、500GB 和 600GB 周期套餐支持同时在线 3 台设备；500GB 一次性流量包支持 5 台，6000GB 一次性流量包支持 3 台。
 - **客服与售后**：套餐页列有客服与工单渠道，标注 24 小时响应。
 - **通用订阅**：可导入兼容的第三方客户端，具体订阅格式以机场提供的链接为准。
 
@@ -1335,29 +1337,30 @@
 >
 > - **专属 8 折优惠码**：`eoht`
 > - **使用方法**：选择套餐后，在结算时输入优惠码并确认折扣生效。下表保留套餐标价，未预先叠加优惠；适用套餐与最终实付金额以结算页为准。
-> - **周期价格**：价格均为对应付款周期的总额，流量为每月标称额度，周期套餐每月重置；“—”表示套餐页未列出该付款周期。
-> - **2 倍率**：所有套餐均标注 `x2`，即使用约 1GB 流量会扣减约 2GB 套餐额度，比较用量时需计入这一规则。
+> - **周期价格**：价格均为对应付款周期的总额，周期套餐流量为每月额度，每月重置。年付折合月价用于比较，购买时需一次支付全年费用。
+> - **1 倍率**：使用约 1GB 流量扣减约 1GB 套餐额度。
+> - **一次性流量**：500GB 和 6000GB 流量包均为 365 天有效期内的总额度，不按月重置。
 >
 
 **支付方式** 支付宝 / 微信支付 / USDT
 
-| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **月付 300GB** | **300GB** | ¥6 | ¥18 | 以购买页为准 | ¥72 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
+| **季付 500GB 特惠** | **500GB** | — | ¥24 | ¥48 | ¥96 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
+| **月付 600GB** | **600GB** | ¥10 | ¥30 | 以购买页为准 | ¥120 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
+| **月付 1200GB** | **1200GB** | ¥15 | ¥30 | 以购买页为准 | ¥120 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
+
+季付 500GB 特惠从季付起购，不提供月付。300GB、600GB 和 1200GB 套餐支持半年付，具体金额以购买页为准；1200GB 套餐的设备上限以所选套餐规则为准。
+
+**365 天一次性流量包**
+
+| 套餐类型 | 总流量 | 有效期与重置规则 | 同时在线设备 | 一次性价格 | 套餐购买 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **年付 128GB 特惠** | **128GB** | — | — | ¥168 | [立即购买](https://eoht.net/serve/airport/cailu) |
-| **季付 64GB 特惠** | **64GB** | — | ¥21 | ¥84 | [立即购买](https://eoht.net/serve/airport/cailu) |
-| **月付 50GB** | **50GB** | ¥7 | ¥21 | ¥84 | [立即购买](https://eoht.net/serve/airport/cailu) |
-| **月付 100GB** | **100GB** | ¥14 | ¥42 | ¥168 | [立即购买](https://eoht.net/serve/airport/cailu) |
-| **月付 200GB** | **200GB** | ¥28 | ¥84 | ¥336 | [立即购买](https://eoht.net/serve/airport/cailu) |
+| **365 天 500GB 流量包** | **500GB** | 365 天有效，用完或到期即止，不按月重置 | 5 台 | ¥25.90 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
+| **不限时 6000GB 流量包** | **6000GB** | 365 天有效，用完或到期即止，不按月重置 | 3 台 | ¥66 | [立即购买](https://eoht.net/serve/airport/xiongmao) |
 
-**不限时流量包**
-
-| 套餐类型 | 总流量 | 有效期与重置规则 | 一次性价格 | 套餐购买 |
-|:---:|:---:|:---:|:---:|:---:|
-| **不限时 100GB** | **100GB** | 不限时，用完即止，不会重置 | ¥150 | [立即购买](https://eoht.net/serve/airport/cailu) |
-
-周期套餐可购买流量重置包。
-
-<a href="https://eoht.net/serve/airport/cailu" target="_blank" rel="sponsored noreferrer">访问财路云官网</a> · [查看完整评测](https://eoht.net/serve/airport/cailu) · [独立仓库 CaiLu](https://github.com/jcsift/CaiLu)
+<a href="https://eoht.net/serve/airport/xiongmao" target="_blank" rel="sponsored noreferrer">访问熊猫云官网</a> · [查看完整评测](https://eoht.net/serve/airport/xiongmao) · [独立仓库 XiongMao](https://github.com/jcsift/XiongMao)
 
 ---
 
