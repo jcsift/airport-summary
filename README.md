@@ -138,7 +138,7 @@
 | <a href="#1fly-airport-review">一翻云(1fly)</a> | [前往官网](https://eoht.net/serve/airport/1fly) | 约¥8.17 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往详情</a> |
 | [隐云(YinYun)](#yinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/yinyun) | 约¥22.83 · 150GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinyun" aria-label="查看隐云完整详情">前往详情</a> |
 | <a href="#2mao-airport-review">二猫云(2mao)</a> | [前往官网](https://eoht.net/serve/airport/2mao) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往详情</a> |
-| [边缘节点(EdgeNova)](#edgenova-airport-review) | [前往官网](https://eoht.net/serve/airport/edgenova) | ¥9 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往详情</a> |
+| [边缘节点(EdgeNova)](#edgenova-airport-review) | [前往官网](https://eoht.net/serve/airport/edgenova) | 约¥8.17 · 45GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往详情</a> |
 | [无忧链接(WuYou)](#wuyou-airport-review) | [前往官网](https://eoht.net/serve/airport/wuyou) | 约¥6.58 · 40GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/wuyou" aria-label="查看无忧链接完整详情">前往详情</a> |
 | [Echo](#echo-airport-review) | [前往官网](https://eoht.net/serve/airport/echo) | ¥8 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/echo" aria-label="查看 Echo 完整详情">前往详情</a> |
 | [SSLAR](#sslar-airport-review) | [前往官网](https://eoht.net/serve/airport/sslar) | 约¥13.58 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sslar" aria-label="查看 SSLAR 完整详情">前往详情</a> |
@@ -690,13 +690,13 @@
 
 ### 边缘节点(EdgeNova)
 
-**最低门槛为 45GB/月限时年付套餐，年付 ¥108。**
+**限时年付 ¥98、45GB/月，折合约 ¥8.17/月；标准套餐 ¥22/月、120GB/月。另有 ¥100/100GB 与 ¥399/450GB 的永久不限时流量包。**
 
 [立即购买边缘节点套餐](https://eoht.net/serve/airport/edgenova)
 
 **本页汇总边缘节点(EdgeNova)机场推广注册入口、套餐价格、优惠码与测速记录；购买前请以结算页信息为准。**
 
-**边缘节点(EdgeNova)** 同时提供直连与 IPLC 套餐，公开套餐从 45GB 年付小包到 1TB 月度流量，适合先按预算和线路需求分档比较。页面将多线路自动分配、全局负载均衡、动态加速及晚高峰不限速列为线路保障。
+**边缘节点(EdgeNova)** 当前套餐标注 **IPLC 专线**，周期套餐覆盖每月 45GB 至 1000GB，另有一次性不限时流量包。套餐统一 **1 倍率**，不限制设备连接数量；服务商将智能流量分配、路由优化、最高 2.5Gbps 与高峰时段不降速列为服务特点，实际速度会受节点负载及本地网络影响。
 
 - 原生 IP 节点支持 **Netflix、Disney+、HBO Max、YouTube、Spotify、Hulu** 等流媒体；
 - 可用于 **ChatGPT、Copilot、Gemini、TikTok** 等服务；
@@ -706,20 +706,35 @@
 > [!TIP]
 >
 > - **专属8折优惠码**：`eoht888`
-> - **适用范围**：适用套餐与折后价格以结算页为准，不能确认所有限时套餐都参与优惠。
-> - **新手建议**：轻度使用选**限时年付**，日常流媒体与 AI 工具推荐**极界·进阶套餐 / 极界·高级套餐**。
+> - **适用范围**：限时体验月付小包不参与优惠活动；其他套餐使用专属码后的折扣及实付金额，以结算页为准。
+> - **价格口径**：下表为使用优惠码前的套餐标价，各付款周期价格为该周期总额；周期套餐流量为每月额度。
+> - **年付说明**：限时年付需一次支付 ¥98，折合约 ¥8.17/月不代表可以按此价格单月购买。
 >
 
 **支付方式** 支付宝 / 微信支付 / USDT
 
-|     套餐类型      |  流量/月  | 月付 | 季付 | 年付  |                                                      套餐购买                                                       |
-|:-----------------:|:---------:|:----:|:----:|:-----:|:-------------------------------------------------------------------------------------------------------------------:|
-|   **限时月付**    |  **72G**  | ¥15  |  -   |   -   | [立即购买](https://eoht.net/serve/airport/edgenova) |
-|   **限时年付**    |  **45G**  |  -   |  -   | ¥108  | [立即购买](https://eoht.net/serve/airport/edgenova) |
-| **极界·标准套餐** | **120G**  | ¥25  | ¥70  | ¥270  | [立即购买](https://eoht.net/serve/airport/edgenova) |
-| **极界·进阶套餐** | **250G**  | ¥50  | ¥145 | ¥570  | [立即购买](https://eoht.net/serve/airport/edgenova) |
-| **极界·高级套餐** | **500G**  | ¥100 | ¥290 | ¥1100 | [立即购买](https://eoht.net/serve/airport/edgenova) |
-| **极界·极限套餐** | **1000G** | ¥200 | ¥580 | ¥2300 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+**周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **限时体验月付小包** | **50GB** | ¥15 | — | — | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **限时年付** | **45GB** | — | — | ¥98 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **极界·标准套餐** | **120GB** | ¥22 | ¥62 | ¥225 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **极界·专享套餐** | **200GB** | ¥35 | ¥99.75 | ¥357 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **极界·进阶套餐** | **250GB** | ¥50 | ¥145 | ¥510 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **极界·高级套餐** | **499GB** | ¥100 | ¥290 | ¥1020 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **极界·极限套餐** | **1000GB（1.0TB）** | ¥200 | ¥580 | ¥2040 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+
+极界系列支持半年付，具体金额以购买页为准。限时年付套餐每月提供 45GB，另支持 **¥10** 付费重置流量。各套餐不限设备数量，流量按 **1 倍率**计费。
+
+**永久不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 手动重置费用 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **永久不限时 100GB** | **100GB** | **¥100** | ¥90 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+| **永久不限时 450GB** | **450GB** | **¥399** | ¥359.10 | [立即购买](https://eoht.net/serve/airport/edgenova) |
+
+不限时套餐为一次购买的**固定总流量**，无时长限制，用完为止，不按周期自动重置，也不代表无限流量。可按原价的 **90%** 手动付费重置，100GB 包为 ¥90，450GB 包为 ¥359.10；重置费用与专属优惠码的叠加情况以结算页为准。
 
 <a href="https://eoht.net/serve/airport/edgenova" target="_blank" rel="sponsored noreferrer">访问边缘节点官网</a> · [查看完整评测](https://eoht.net/serve/airport/edgenova)
 
