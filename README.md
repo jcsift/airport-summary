@@ -165,6 +165,8 @@
 | [云图机场(YunTu)](#yuntu-airport-review) | [前往官网](https://eoht.net/serve/airport/yuntu) | ¥20 · 150GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yuntu" aria-label="查看云图机场完整详情">前往详情</a> |
 | [唯兔云(WeiTuYun)](#weitu-airport-review) | [前往官网](https://eoht.net/serve/airport/weitu) | 约¥6.66 · 45GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/weitu" aria-label="查看唯兔云完整详情">前往详情</a> |
 | [全球云(QuanQiuYun)](#quanqiuyun-airport-review) | [前往官网](https://eoht.net/serve/airport/quanqiuyun) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/quanqiuyun" aria-label="查看全球云完整详情">前往详情</a> |
+| [榴莲云(LiuLianYun)](#liulianyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liulianyun) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/liulianyun" aria-label="查看榴莲云完整详情">前往详情</a> |
+| [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -2091,6 +2093,91 @@
 该套餐面向独立站部署、TikTok 直播、跨境业务与定制需求。服务商称带宽及公网 IP 不与他人共享，下单后约 **2–3 个工作日**完成交付，具体需求通过工单确认。
 
 <a href="https://eoht.net/serve/airport/quanqiuyun" target="_blank" rel="sponsored noreferrer">访问全球云官网</a> · [查看完整评测](https://eoht.net/serve/airport/quanqiuyun) · [独立仓库 QuanQiuYun](https://github.com/jcsift/QuanQiuYun)
+
+---
+
+<a id="liulianyun-airport-review"></a>
+
+### 榴莲云(LiuLianYun)
+
+**年付特惠版 ¥96/年、60GB/月，折合 ¥8/月；月付 ¥24 起、140GB/月。支持通用订阅，没有不限时套餐，优惠码 `ll88` 享 7 折。**
+
+[查看榴莲云套餐](https://eoht.net/serve/airport/liulianyun)
+
+本页整理榴莲云(LiuLianYun)的推广注册入口、套餐价格、优惠码、支付方式、测速与解锁资料，套餐供应及最终付款金额以购买页为准。
+
+**榴莲云(LiuLianYun)** 于 **2026 年 3 月**开业。服务商的年付特惠版说明标注 **IPLC 专线、原生 IP、全节点 1 倍率**，单节点峰值最高 **2.5Gbps**；实际连接表现取决于所选节点、本地运营商及使用时段。
+
+- **节点地区**：香港、台湾、日本、新加坡、美国等，具体可用节点以面板为准。
+- **流媒体与 AI**：面向流媒体观看与 AI 工具访问场景，套餐说明列有 Netflix、Disney+ 等平台；可结合[解锁图](https://eoht.net/serve/airport/liulianyun#liulianyun-unlock-test)与节点当前标注选择地区。
+- **设备与速率**：五档套餐均标注不限设备数量、不限速，支持多设备同时使用。
+- **通用订阅**：支持导入第三方客户端，使用时需匹配面板提供的订阅格式与节点协议；配置可参考[客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
+- **流量规则**：周期套餐提供每月流量额度；年付特惠版明确从购买日起每 30 天刷新流量。
+
+> [!TIP]
+> **优惠码与价格说明**
+>
+> - **7 折优惠码**：`ll88`。结算时输入并核对优惠是否生效，适用套餐及叠加条件以结算页为准。
+> - 下表为**使用优惠码前的套餐标价**，各付款周期价格均为对应周期总额，流量为每月额度。
+> - 轻享包、畅享包、尊享包与榴莲王的标价已包含季付 9 折、半年付 8.5 折、年付 8 折、两年付 7 折的周期优惠，不再重复计算这些折扣。
+> - 年付特惠版需一次支付 ¥96，折合 ¥8/月不代表可以按此价格单月购买。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 两年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **榴莲包·年付特惠版** | **60GB** | — | — | — | ¥96 | — | [立即购买](https://eoht.net/serve/airport/liulianyun) |
+| **轻享包** | **140GB** | ¥24 | ¥64.80 | ¥122.40 | ¥230.40 | ¥403.20 | [立即购买](https://eoht.net/serve/airport/liulianyun) |
+| **畅享包** | **260GB** | ¥40 | ¥108 | ¥204 | ¥384 | ¥672 | [立即购买](https://eoht.net/serve/airport/liulianyun) |
+| **尊享包** | **420GB** | ¥60 | ¥162 | ¥306 | ¥576 | ¥1008 | [立即购买](https://eoht.net/serve/airport/liulianyun) |
+| **榴莲王** | **750GB** | ¥100 | ¥270 | ¥510 | ¥960 | ¥1680 | [立即购买](https://eoht.net/serve/airport/liulianyun) |
+
+年付特惠版适合每月流量较少的用户；轻享包至榴莲王按月度额度区分，可根据视频、下载与多设备的实际用量选择。榴莲云目前没有不限时流量包，套餐需在所购周期内使用。
+
+<a href="https://eoht.net/serve/airport/liulianyun" target="_blank" rel="sponsored noreferrer">访问榴莲云官网</a> · [查看完整评测](https://eoht.net/serve/airport/liulianyun) · [独立仓库 LiuLianYun](https://github.com/jcsift/LiuLianYun)
+
+---
+
+<a id="shenxing-airport-review"></a>
+
+### 神行云(ShenXingYun)
+
+**年付特惠版 ¥96/年、60GB/月，折合 ¥8/月；尝鲜包 ¥23/月、120GB/月。新人优惠码 `xs0077` 享 7 折，年付特惠版折后 ¥67.20/年，折合 ¥5.60/月。**
+
+[查看神行云套餐](https://eoht.net/serve/airport/shenxing)
+
+本页整理神行云(ShenXingYun)的推广注册入口、套餐价格、新人优惠、支付方式、通用订阅获取方法、测速与解锁资料，套餐供应及最终付款金额以购买页为准。
+
+**神行云(ShenXingYun)** 于 **2025 年**开业，采用 **VLESS 协议**。常规套餐说明标注 **IPLC 专线**，年付特惠版标注 **IEPL 专线**；品牌资料介绍采用三网优化与智能负载均衡，面向重视连接稳定性和综合体验的用户。
+
+- **节点地区**：品牌资料标注 **50+ 节点**，列出香港 20、台湾 10、日本 10、新加坡 10、美国 10，实际可用节点以面板为准。
+- **原生 IP 与解锁**：品牌资料称采用原生家宽 IP，支持 Netflix、X、Disney+、YouTube，以及 ChatGPT、Gemini、Claude 等 AI 服务；可结合[解锁图](https://eoht.net/serve/airport/shenxing#shenxing-unlock-test)与节点当前标注选择地区。
+- **倍率与设备**：套餐标注全节点 **1 倍率**，不限设备连接数，可多端同时使用。
+- **速率说明**：常规套餐标注不限速、单节点最高 **2.5Gbps**；实际速度会受节点负载、本地运营商与使用时段影响。
+- **客户端与通用订阅**：提供自研客户端。需要导入 Clash、v2ray 或 Shadowrocket 等第三方客户端时，**联系在线客服获取通用订阅导入方式**，并确认客户端支持相应协议与订阅格式。
+- **流量规则**：周期套餐按月提供流量；年付特惠版从购买日起每 30 天刷新 60GB，没有不限时流量包。
+
+> [!TIP]
+> **新人优惠与价格说明**
+>
+> - **新人 7 折优惠码**：`xs0077`，新人注册购买时使用，续费及其他适用条件以结算页为准。
+> - 年付特惠版原价 **¥96/年**，使用新人 7 折优惠后为 **¥67.20/年**，折合 **¥5.60/月**；购买时需一次支付全年费用。
+> - 下表列出**使用优惠码前的套餐标价**，流量为每月额度，月付与年付金额分别为对应周期总额。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+| 套餐类型 | 流量/月 | 付款周期 | 标价 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **神行·年付特惠版** | **60GB** | 年付 | **¥96/年** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·尝鲜包** | **120GB** | 月付 | **¥23/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·基础包** | **260GB** | 月付 | **¥40/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·尊享包** | **520GB** | 月付 | **¥72/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+
+年付特惠版适合流量需求较少的用户；尝鲜包、基础包与尊享包可按视频、下载和多设备用量选择，也可在购买页切换其他付款周期并查看对应总价。各周期价格以所选套餐为准，不按月付价格直接推算。
+
+<a href="https://eoht.net/serve/airport/shenxing" target="_blank" rel="sponsored noreferrer">访问神行云官网</a> · [查看完整评测](https://eoht.net/serve/airport/shenxing) · [独立仓库 ShenXingYun](https://github.com/jcsift/ShenXingYun)
 
 <a id="vpn-airport-beginner-guide"></a>
 
