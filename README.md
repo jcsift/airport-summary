@@ -167,6 +167,8 @@
 | [全球云(QuanQiuYun)](#quanqiuyun-airport-review) | [前往官网](https://eoht.net/serve/airport/quanqiuyun) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/quanqiuyun" aria-label="查看全球云完整详情">前往详情</a> |
 | [榴莲云(LiuLianYun)](#liulianyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liulianyun) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/liulianyun" aria-label="查看榴莲云完整详情">前往详情</a> |
 | [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> |
+| [安迪云(AnDy)](#andy-airport-review) | [前往官网](https://eoht.net/serve/airport/andy) | ¥2.50 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/andy" aria-label="查看安迪云完整详情">前往详情</a> |
+| [杏花云(XingHua)](#xinghua-airport-review) | [前往官网](https://eoht.net/serve/airport/xinghua) | ¥1 · 50GB/月 | ✅（365天） | ✅ | <a href="https://eoht.net/serve/airport/xinghua" aria-label="查看杏花云完整详情">前往详情</a> |
 
 <a id="_2026年翻墙机场推荐一览表"></a>
 
@@ -2178,6 +2180,112 @@
 年付特惠版适合流量需求较少的用户；尝鲜包、基础包与尊享包可按视频、下载和多设备用量选择，也可在购买页切换其他付款周期并查看对应总价。各周期价格以所选套餐为准，不按月付价格直接推算。
 
 <a href="https://eoht.net/serve/airport/shenxing" target="_blank" rel="sponsored noreferrer">访问神行云官网</a> · [查看完整评测](https://eoht.net/serve/airport/shenxing) · [独立仓库 ShenXingYun](https://github.com/jcsift/ShenXingYun)
+
+---
+
+<a id="andy-airport-review"></a>
+
+### 安迪云(AnDy)
+
+**年付 ¥30、50GB/月，折合 ¥2.50/月；月付 ¥5 起、100GB/月。支持 VLESS 通用订阅，另有 ¥100/1000GB 不限时流量包，专属优惠码 `eoht` 享 8 折。**
+
+[查看安迪云套餐](https://eoht.net/serve/airport/andy)
+
+本页整理安迪云(AnDy)的推广注册入口、套餐价格、专属优惠、支付方式、设备限制和流量重置规则，套餐供应及最终付款金额以购买页为准。
+
+**安迪云(AnDy)** 全部套餐使用 **VLESS 协议**，支持将通用订阅导入兼容客户端。套餐说明指出各档线路相同，主要区别在于**流量额度、设备数量与套餐速率**，可结合预算和实际使用量选择。
+
+- **周期套餐**：每月提供固定流量，适合有持续使用需求的用户；最低年付档每月 50GB，月付档覆盖 100GB 至 1000GB。
+- **不限时流量包**：一次购买 1000GB 总流量，不按月刷新，也不代表无限流量。
+- **速率与设备**：周期套餐标注 500Mbps 至 5Gbps、2 至 8 台设备；不限时套餐标注 1Gbps、10 台设备，具体限制见下表。标注速率不等于任何网络环境下都能达到的实际速度。
+- **流媒体与节点**：套餐说明标注支持流媒体解锁、可用所有节点，具体平台与地区可用性以节点当前状态为准。
+- **通用订阅**：可使用兼容 VLESS 及面板订阅格式的第三方客户端，安装与导入可参考[客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
+- **退款规则**：套餐说明标注不支持退款，购买前应确认流量、设备数与付款周期。
+
+> [!TIP]
+> **专属优惠与价格说明**
+>
+> - **专属 8 折优惠码**：`eoht`，结算时输入并核对折扣与实付金额；适用套餐及其他条件以结算页为准。
+> - 下表为**使用优惠码前的套餐标价**，月付、季付与年付金额均为对应周期总额，周期套餐的流量为每月额度。
+> - 年付-50G 需一次支付 ¥30，折合 ¥2.50/月不代表可以按此价格单月购买。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+**周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 标注速率 | 设备数量 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **年付-50G** | **50GB** | — | — | ¥30 | 500Mbps | 2 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+| **月付-100G** | **100GB** | ¥5 | ¥15 | ¥60 | 500Mbps | 2 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+| **月付-300G** | **300GB** | ¥10 | ¥30 | ¥120 | 800Mbps | 3 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+| **月付-500G** | **500GB** | ¥15 | ¥45 | ¥180 | 1Gbps | 5 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+| **月付-1000G** | **1000GB** | ¥25 | ¥75 | ¥300 | 5Gbps | 8 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+
+年付-50G 另有**两年付 ¥60、三年付 ¥90**，流量仍为每月 50GB。其他付款周期可在购买页切换查看对应总价，不按月付价格直接推算。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 标注速率 | 设备数量 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **一次性-1000G** | **1000GB** | **¥100** | 不限时，用完为止 | 1Gbps | 10 台 | [立即购买](https://eoht.net/serve/airport/andy) |
+
+一次性套餐没有流量到期日，购买后按**固定总流量**使用，不按月自动刷新。重复购买一次性套餐时，剩余流量不会叠加，而是重置为新购套餐的额度。
+
+<a href="https://eoht.net/serve/airport/andy" target="_blank" rel="sponsored noreferrer">访问安迪云官网</a> · [查看完整评测](https://eoht.net/serve/airport/andy) · [独立仓库 AnDy](https://github.com/jcsift/AnDy)
+
+---
+
+<a id="xinghua-airport-review"></a>
+
+### 杏花云(XingHua)
+
+**年付 ¥12、50GB/月，折合 ¥1/月；月付 ¥3 起、200GB/月。支持 VLESS 通用订阅，另有 ¥20/1000GB、365 天有效的一次性流量包，专属优惠码 `eoht` 享 8 折。**
+
+[查看杏花云套餐](https://eoht.net/serve/airport/xinghua)
+
+本页整理杏花云(XingHua)的推广注册入口、套餐价格、专属优惠、支付方式、设备限制及流量包有效期，套餐供应和最终付款金额以购买页为准。
+
+**杏花云(XingHua)** 全部套餐使用 **VLESS 协议**，支持通用订阅，提供按月分配流量的周期套餐和固定总流量的一次性套餐，可根据日常用量与设备数量选择。
+
+- **周期流量**：两档年付方案分别提供每月 50GB、100GB；轻量版、标准版与专业版分别提供每月 200GB、500GB、1000GB。
+- **一次性流量**：365天-1000G 为有效期内共用的 1000GB 总额度，限 365 天内使用，用完或到期即止。
+- **设备与速率**：各套餐标注不限速，设备限制按档位为 2、3 或 5 台，实际连接速度会随所选节点和本地网络环境变化。
+- **AI 与流媒体**：套餐说明标注支持主流 AI 与流媒体服务，具体平台和地区可用性以节点当前状态为准。
+- **通用订阅**：可导入兼容 VLESS 及面板订阅格式的第三方客户端，配置方法可参考[客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
+- **服务响应**：套餐标注 **24 小时服务响应**，具体受理方式与处理进度以服务商说明为准。
+
+> [!TIP]
+> **专属优惠与价格说明**
+>
+> - **专属 8 折优惠码**：`eoht`，结算时输入并核对折扣与实付金额；适用套餐及其他条件以结算页为准。
+> - 下表为**使用优惠码前的套餐标价**。月付档的季付总额为月价 × 3，年付总额为月价 × 12，流量仍按每月额度计算。
+> - 年付-50G 需一次支付 ¥12，折合 ¥1/月不代表可以按此价格单月购买。
+>
+
+**支付方式** 支付宝 / 微信支付 / USDT
+
+**周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 设备数量 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **年付-50G** | **50GB** | — | — | ¥12 | 2 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+| **年付-100G** | **100GB** | — | — | ¥24 | 3 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+| **轻量版** | **200GB** | ¥3 | ¥9 | ¥36 | 2 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+| **标准版** | **500GB** | ¥6 | ¥18 | ¥72 | 3 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+| **专业版** | **1000GB** | ¥10 | ¥30 | ¥120 | 5 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+
+年付-50G 与年付-100G 适合每月流量较少的用户；轻量版至专业版可结合视频、下载和多设备的月度用量选择。季付和年付是付款周期，每月流量额度不随一次支付的月数增加。
+
+**365 天一次性流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期 | 设备数量 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **365天-1000G** | **1000GB** | **¥20** | 365 天，用完或到期即止 | 3 台 | [立即购买](https://eoht.net/serve/airport/xinghua) |
+
+这档套餐为一次购买的**固定总流量**，1000GB 在 365 天有效期内共用，不按月自动刷新。购买前应结合预计用量与有效期选择。
+
+<a href="https://eoht.net/serve/airport/xinghua" target="_blank" rel="sponsored noreferrer">访问杏花云官网</a> · [查看完整评测](https://eoht.net/serve/airport/xinghua) · [独立仓库 XingHua](https://github.com/jcsift/XingHua)
 
 <a id="vpn-airport-beginner-guide"></a>
 
