@@ -795,7 +795,7 @@
 |  **随心链接**  |  **500GB/月**  | ¥77  | ¥207 |     ¥739      | [立即购买](https://eoht.net/serve/airport/wuyou) |
 |  **忘忧链接**  |   **1TB/月**   | ¥117 | ¥315 |     ¥1123     | [立即购买](https://eoht.net/serve/airport/wuyou) |
 
-<a href="https://eoht.net/serve/airport/wuyou" target="_blank" rel="sponsored noreferrer">访问无忧链接官网</a> · [查看完整评测](https://eoht.net/serve/airport/wuyou)
+<a href="https://eoht.net/serve/airport/wuyou" target="_blank" rel="sponsored noreferrer">访问无忧链接官网</a> · [查看完整评测](https://eoht.net/serve/airport/wuyou) · [独立仓库 WuYou](https://github.com/jcsift/WuYou)
 
 ---
 
